@@ -1,1 +1,1 @@
-I hate myself so imma do some coding i C/C++
+I hate myself so imma do some coding in C/C++
